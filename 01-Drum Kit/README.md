@@ -46,3 +46,6 @@ The transitionend event occurs when a CSS transition has completed.
 - Most browsers return a NodeList object for the method querySelectorAll().
 - A NodeList may look like an array, but it is not.
 -  create an Array from a NodeList : ` Array.from()`
+
+## Screenshot
+![app image](images/app.png)

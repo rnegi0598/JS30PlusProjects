@@ -6,8 +6,6 @@ window.addEventListener('keydown',(event)=>{
     audio.currentTime=0;
     audio.play();
     const key=document.querySelector(`div[data-key="${event.keyCode}"]`);
-    
-
     key.classList.add('playing');
 
 });
