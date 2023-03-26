@@ -11,5 +11,5 @@ By default `transform-origin:50%`.
 ![](images/3.png)  
 
 ## Screenshot
-![app](images/app.png)  
+<!-- ![app](images/app.png)   -->
 ![app gif](images/app.gif)
