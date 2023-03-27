@@ -9,6 +9,11 @@ window.addEventListener('keydown',(event)=>{
     key.classList.add('playing');
 
 });
+window.addEventListener('keyup',(event)=>{
+    const key=document.querySelector(`div[data-key="${event.keyCode}"]`);
+    key.classList.remove('playing');
+})
+/*
 const keys=Array.from(document.querySelectorAll('.key'));
 keys.forEach((key)=>{
     key.addEventListener('transitionend',(event)=>{
@@ -17,3 +22,4 @@ keys.forEach((key)=>{
         }
     })
 })
+*/
