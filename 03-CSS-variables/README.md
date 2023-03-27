@@ -101,3 +101,5 @@ The `setProperty()` method sets a new or modifies an existing CSS property in a 
 ```javascript
 document.body.querySelector('parent').style.setProperty("background-color", "yellow");
 ```
+## Screenshot
+![app](images/app.png)
