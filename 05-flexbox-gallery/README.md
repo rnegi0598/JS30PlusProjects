@@ -35,7 +35,7 @@
         color:'red';
     }
     ```
-- :: represents pseudo-elements ( ::before ::after ::first-letter ::first-line ::marker)
+- :: represents pseudo-elements ( `::before ::after ::first-letter ::first-line ::marker`)
 
 When open class is added to div with class panel and you want to add style to ::before element
 ```css
