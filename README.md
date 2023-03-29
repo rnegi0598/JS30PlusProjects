@@ -10,7 +10,7 @@
 - [x] Array methods filter,map,reduce,sort
 - [x] Image gallery using flex
 - [x] fetch() API
-- [ ] Array some,every,find ,spread 
+- [x] Array some,every,find ,spread 
 - [ ] HTML5 canvas
 - [ ] Dev tools
 - [ ] JS checkbox
