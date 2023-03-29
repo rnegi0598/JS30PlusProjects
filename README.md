@@ -1,4 +1,4 @@
-# JS30Projects : A 30 Vanilla JavaScript Project Challenge! 
+# JS30Projects : [A 30 Vanilla JavaScript Project Challenge !](https://github.com/wesbos/JavaScript30) 
 
 ## Playlist 
 
