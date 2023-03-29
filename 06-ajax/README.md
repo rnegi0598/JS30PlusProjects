@@ -134,3 +134,8 @@ The Response object provides different reading methods according to different ty
 
 ## spread operator 
 The JavaScript spread operator (...) allows us to quickly copy all or part of an existing array or object into another array or object.
+
+## Screenshot
+
+![app1](images/app1.png)
+![app2](images/app2.png)
