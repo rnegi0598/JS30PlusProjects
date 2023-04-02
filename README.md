@@ -13,7 +13,7 @@
 - [x] Array some,every,find ,spread 
 - [ ] HTML5 canvas
 - [x] Dev tools
-- [ ] JS checkbox
+- [x] JS checkbox
 - [ ] Custom HTML5 videoplayer
 - [ ] JS konami code
 - [ ] JS slide in on scroll
