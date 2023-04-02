@@ -15,7 +15,7 @@
 - [x] Dev tools
 - [x] JS checkbox
 - [ ] Custom HTML5 videoplayer
-- [ ] JS konami code
+- [x] JS konami code
 - [ ] JS slide in on scroll
 - [ ] JS :Reference vs copy
 - [ ] How localstorage and event delegation work
