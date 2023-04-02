@@ -12,7 +12,7 @@
 - [x] fetch() API
 - [x] Array some,every,find ,spread 
 - [ ] HTML5 canvas
-- [ ] Dev tools
+- [x] Dev tools
 - [ ] JS checkbox
 - [ ] Custom HTML5 videoplayer
 - [ ] JS konami code
