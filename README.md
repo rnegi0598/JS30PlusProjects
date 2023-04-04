@@ -16,8 +16,8 @@
 - [x] JS checkbox
 - [ ] Custom HTML5 videoplayer
 - [x] JS konami code
-- [ ] JS slide in on scroll
-- [ ] JS :Reference vs copy
+- [x] JS slide in on scroll
+- [x] JS :Reference vs copy
 - [ ] How localstorage and event delegation work
 - [ ] css text shadow on mouse move effect
 - [ ] Sorting band names without articles
