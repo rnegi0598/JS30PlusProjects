@@ -1,0 +1,24 @@
+.wrapper{
+    border: 1px solid black;
+    text-align: center;
+}
+ul{
+    list-style: none;
+  
+}
+  
+.hide{
+    display:none;
+}
+label{
+    font-size: 2rem;
+}
+label::before{
+    content: '💔';
+    font-size: 2rem;
+    margin-right: 10px;
+    
+}
+input:checked + label::before{
+    content: '💗';
+}
