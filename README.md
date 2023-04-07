@@ -21,7 +21,7 @@
 - [x] How localstorage and event delegation work
 - [x] css text shadow on mouse move effect
 - [x] Sorting band names without articles
-- [ ] How JS array reduce works
+- [x] How JS array reduce works
 - [ ] Unreal webcam fun with getUserMedia() and HTML5 Canvas
 - [ ] JS speech recognition
 - [ ] JS geolocation based speedometer and compass
