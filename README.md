@@ -20,7 +20,7 @@
 - [x] JS :Reference vs copy
 - [x] How localstorage and event delegation work
 - [x] css text shadow on mouse move effect
-- [ ] Sorting band names without articles
+- [x] Sorting band names without articles
 - [ ] How JS array reduce works
 - [ ] Unreal webcam fun with getUserMedia() and HTML5 Canvas
 - [ ] JS speech recognition
