@@ -19,7 +19,7 @@
 - [x] JS slide in on scroll
 - [x] JS :Reference vs copy
 - [x] How localstorage and event delegation work
-- [ ] css text shadow on mouse move effect
+- [x] css text shadow on mouse move effect
 - [ ] Sorting band names without articles
 - [ ] How JS array reduce works
 - [ ] Unreal webcam fun with getUserMedia() and HTML5 Canvas
