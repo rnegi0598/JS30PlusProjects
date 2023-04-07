@@ -1,10 +1,28 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .wrapper{
     border: 1px solid black;
-    text-align: center;
+    padding: 10px;
+    background-color: black;
+ 
 }
 ul{
     list-style: none;
-  
+}
+li{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 5px;
 }
   
 .hide{
@@ -20,5 +38,18 @@ label::before{
     
 }
 input:checked + label::before{
-    content: '💗';
+    content: '❤️‍🩹';  
+}
+
+input{
+    font-size: 1.5rem;
+    width: 200px;
+    margin-top: 10px;
+    outline: none;
+    padding: 5px;
+}
+button{
+    font-size: 1.5rem;
+    padding: 5px;
+
 }

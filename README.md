@@ -18,7 +18,7 @@
 - [x] JS konami code
 - [x] JS slide in on scroll
 - [x] JS :Reference vs copy
-- [ ] How localstorage and event delegation work
+- [x] How localstorage and event delegation work
 - [ ] css text shadow on mouse move effect
 - [ ] Sorting band names without articles
 - [ ] How JS array reduce works
