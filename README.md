@@ -28,7 +28,7 @@
 - [ ] JS Exercise
 - [ ] JS text-to-speech
 - [ ] JS sticky nav
-- [ ] JS interface challenge
+- [x] JS interface challenge
 - [ ] Build experimental video speed controller UI
 - [ ] JS countdown timer
 - [ ] Make a whack a mole game
