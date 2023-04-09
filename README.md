@@ -27,7 +27,7 @@
 - [ ] JS geolocation based speedometer and compass
 - [ ] JS Exercise
 - [ ] JS text-to-speech
-- [ ] JS sticky nav
+- [x] JS sticky nav
 - [x] JS interface challenge
 - [ ] Build experimental video speed controller UI
 - [ ] JS countdown timer
