@@ -30,5 +30,5 @@
 - [x] JS sticky nav
 - [x] JS interface challenge
 - [ ] Build experimental video speed controller UI
-- [ ] JS countdown timer
+- [x] JS countdown timer
 - [ ] Make a whack a mole game
