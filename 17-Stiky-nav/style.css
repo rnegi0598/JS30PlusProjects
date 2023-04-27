@@ -23,6 +23,7 @@ nav{
     padding: 5px 10px;
     overflow: hidden;
 }
+/* main point to notice here is adding class at top level lets you modify many classes  */
 body.nav-fixed nav{
     position: fixed;
     top:0;
