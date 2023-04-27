@@ -29,8 +29,12 @@ const populateItem=()=>{
 }
 
 //This is event delegation
+//instead of attaching eventListener to each li element we put it to their parent 
 ul.addEventListener('click',(e)=>{
+    // The matches() method returns true if an element matches a specific CSS selector(s).
     if(e.target.matches('input')===false) return ;
+    //only input element will reach here
+    //get the last digit of the string  , will fail for double digit
     const ind=e.target.id.slice(-1);
     items[ind]={
         ...items[ind],
